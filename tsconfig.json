@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        // "rootDir": "./src",
+        "sourceMap": true, // 开启sourcemap
+        "module": "es6",
+        "target": "es5",
+        "jsx": "react",
+        "esModuleInterop": true,
+        "allowJs": true,
+        "strict": true
+    }
+}
